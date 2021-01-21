@@ -1,4 +1,4 @@
-# retail_analysis_forecasting
+# Retail Analysis Forecasting
 Exploring various features that affect company wide sales as well as looking to forecast sales for the next fiscal quarter. 
 
 ## Inspiration

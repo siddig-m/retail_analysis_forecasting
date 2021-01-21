@@ -21,3 +21,4 @@ By completing this project I was able to expose myself to the realm of forecasti
 
 ## What's next for Retail Data Analysis and Sales Forecasting
 The next step for this project would be to improve the accuracy of the sales forecast. Exploring other techniques and machine learning algorithms that could perhaps incorporate not only time as a feature but other factors as well may contribute to more accurate predictions. The next step is also to automate the process of applying the model to any department and store of choice that would present a more user-friendly use.
+
